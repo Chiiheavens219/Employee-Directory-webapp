@@ -7,6 +7,8 @@ A brief hands-on how to create a web app using a Virtual Machine (EC2 instance) 
 
 ### Created an IAM User
 
+![IAM image]()
+
 I created an IAM user from the root account 
 
 Created a group and labelled it Admin and then assigned Administrator access to the IAM User.

@@ -8,7 +8,7 @@ A brief hands-on how to create a web app using a Virtual Machine (EC2 instance) 
 
 ### Created an IAM User
 
-![Image for User created](main/IAM-user.PNG)
+![Image for User created](blob/main/IAM-user.PNG)
 
 I created an IAM user from the root account 
 

@@ -1,4 +1,5 @@
 # Employee-Directory-webapp
+
 A brief hands-on how to create a web app using a Virtual Machine (EC2 instance) in AWS.
 
 # Conception - Creating Users and Groups
@@ -7,7 +8,7 @@ A brief hands-on how to create a web app using a Virtual Machine (EC2 instance) 
 
 ### Created an IAM User
 
-![IAM image]()
+![Image for User created]()
 
 I created an IAM user from the root account 
 
@@ -28,6 +29,14 @@ EC2 Admin with ViewStopStartAccess
 user-1 and user-2 were assigned managed policies
 
 user-3 was assigned an inline policy
+
+I did the following to assign an inline policy.
+
+I selected User Group on the management console, selected user-3, clicked on permissions and selected add permissions.
+
+I went further to click on create inline policy.
+
+The following commands were typed in
 
 ```
 {

@@ -74,4 +74,4 @@ It was confirmed that they can only access the permissions granted to them.
 
 ![Image of confirmed EC2ViewStartStop permission](User-3-ViewstartStop.PNG)
 
-
+I couldn't get my Employee Directory to open, though i am still trying to get it fixed.

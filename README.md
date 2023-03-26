@@ -29,6 +29,23 @@ user-1 and user-2 were assigned managed policies
 
 user-3 was assigned an inline policy
 
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "s3:*",
+                "dynamodb:*",
+                "ec2:*"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+```
 
 ## Testrunning the 3 users created
 
